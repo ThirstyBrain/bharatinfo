@@ -14,7 +14,7 @@ import { Iconify } from '../src/components/iconify';
 
 export default function App() {
   useScrollToTop();
-
+  
   const githubButton = (
     <Fab
       size="medium"

@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://thirstybrain.github.io/bharatinfo",
+  "homepage": "http://www.bharatinfo.live",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
